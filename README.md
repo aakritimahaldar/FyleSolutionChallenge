@@ -45,14 +45,14 @@ Subsequently, we will schedule a phone interview with a Fyle Engineer.
 
 If that goes well, we'll make an offer.
 
-Installation
+## **Installation**
 Install  using winget install --id GitHub.cli
 Install using brew install gh for macOS
 Install using sudo port install gh for MacPorts
 Install using curl -sS https://webi.sh/gh | sh for Webi
 
-Other platforms
+## **Other platforms**
 Download packaged binaries from the releases page.
 
-Build from source
+## **Build from source**
 See here on how to build GitHub CLI from source.
