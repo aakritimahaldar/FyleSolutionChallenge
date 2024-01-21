@@ -24,7 +24,7 @@ For example: johnpapa is a valid Github username
     - By default, show `10` repositories per page
     - User should be able to choose a maximum of `100` repositories per page.
 - When the API calls are in progress, consider showing loaders.
-- 
+
  ### Notes
 - The assignment has to be done in HTML, CSS and Javascript. You can use Bootstrap and Jquery but no other library/design system is allowed.
 - You're free to make assumptions, please make sure they are mentioned in the README.
@@ -36,10 +36,6 @@ For example: johnpapa is a valid Github username
 
 - A Github repo link(public) of your solution, with a README to run and check things on local.
 - Link to the hosted Web App.
-
-## **Submission**
-
-- Once you are done with your task, please use [this form](https://forms.gle/fAsqsx5Nai1Z4PfK9) to complete your submission.
 
 ## **What happens next?**
 
