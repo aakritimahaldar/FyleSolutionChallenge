@@ -1,4 +1,4 @@
-# Fyle Web Development Internship Channel
+# Fyle Web Development Internship
 
 ## **Who is this for?**
 
